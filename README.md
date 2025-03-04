@@ -6,6 +6,10 @@
 
 <img src="https://img.shields.io/badge/licença-MIT-green" alt="License: MIT">
 <img src="https://img.shields.io/badge/versão-v1.1.1-blue" alt="Version: 1.2.3">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kassioramos/challenge-amigo-secreto_pt-main">
+
+
+
 <p>
     Este projeto permite que você adicione nomes de amigos a uma lista e sorteie aleatoriamente
   um dos nomes
