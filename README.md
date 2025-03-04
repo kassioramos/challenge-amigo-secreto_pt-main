@@ -62,12 +62,22 @@
  </p>
 
  ## Possivéis Problemas:
+ <p>
  1. Problema: O alerta de campo vazio não está funcionando
 Solução: Verifique se você está utilizando o método correto para verificar o valor do campo. Use amigo.trim() !== '' para garantir que o campo não esteja vazio, incluindo espaços em branco.
 2. Problema: O botão de sorteio não sorteia nada
 Solução: Certifique-se de que a lista de amigos não esteja vazia antes de clicar no botão "Sortear Amigo". O código só sorteia se a lista contiver pelo menos um amigo.
 3. Problema: O navegador não abre o arquivo HTML
 Solução: Verifique se você está abrindo o arquivo HTML corretamente. Você pode arrastar o arquivo para a janela do navegador ou clicar com o botão direito sobre o arquivo e selecionar "Abrir com" e escolher o navegador.
+<p/>
+<br>
+
+## Conclusão
+<p>
+ Este projeto simples permite que você adicione amigos à lista e sorteie um amigo aleatoriamente. Você pode estilizá-lo com CSS, e adicionar novas funcionalidades, como editar ou excluir amigos da lista.
+
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para contribuir com o código!   
+</p>
 
 
 
