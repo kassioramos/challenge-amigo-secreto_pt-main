@@ -76,7 +76,7 @@ Solução: Verifique se você está abrindo o arquivo HTML corretamente. Você p
 <p/>
 <br>
 
-## Conclusão
+## Conclusão:
 <p>
  Este projeto simples permite que você adicione amigos à lista e sorteie um amigo aleatoriamente. Você pode estilizá-lo com CSS, e adicionar novas funcionalidades, como editar ou excluir amigos da lista.
 
