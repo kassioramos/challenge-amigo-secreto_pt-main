@@ -52,6 +52,16 @@
   Este é um projeto simples que não requer dependências externas. Você pode executar o projeto localmente apenas com o navegador.
  </p>
 
+ <br>
+ 
+ ## Como Executar:
+ <p>
+  1. Abra o arquivo index.html em um navegador.
+2. Adicione nomes de amigos no campo de texto e clique no botão "Adicionar Amigo".
+3.Clique no botão "Sortear Amigo" para sortear um amigo aleatoriamente.
+4. Se a lista estiver vazia, o botão de sorteio exibirá um alerta dizendo "Não há amigos, por favor, adicione pelo menos um amigo".   
+ </p>
+
 
 
 
