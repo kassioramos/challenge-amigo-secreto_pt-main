@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/licença-MIT-green" alt="License: MIT">
 <img src="https://img.shields.io/badge/versão-v1.1.1-blue" alt="Version: 1.2.3">
 <p>
-  Este projeto permite que você adicione nomes de amigos a uma lista e sorteie aleatoriamente
+   ** Este projeto permite que você adicione nomes de amigos a uma lista e sorteie aleatoriamente **
   um dos nomes
 </p>
 
@@ -44,6 +44,12 @@
    style="pading-right:10px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
    />
+ </p>
+ <br>
+ 
+ ## Instalação.
+ <p>
+  Este é um projeto simples que não requer dependências externas. Você pode executar o projeto localmente apenas com o navegador.
  </p>
 
 
