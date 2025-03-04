@@ -51,16 +51,23 @@
  <p>
   Este é um projeto simples que não requer dependências externas. Você pode executar o projeto localmente apenas com o navegador.
  </p>
-
  <br>
  
- ## Como Executar:
+  ## Como Executar:
  <p>
   1. Abra o arquivo index.html em um navegador.
 2. Adicione nomes de amigos no campo de texto e clique no botão "Adicionar Amigo".
 3.Clique no botão "Sortear Amigo" para sortear um amigo aleatoriamente.
 4. Se a lista estiver vazia, o botão de sorteio exibirá um alerta dizendo "Não há amigos, por favor, adicione pelo menos um amigo".   
  </p>
+
+ ## Possivéis Problemas:
+ 1. Problema: O alerta de campo vazio não está funcionando
+Solução: Verifique se você está utilizando o método correto para verificar o valor do campo. Use amigo.trim() !== '' para garantir que o campo não esteja vazio, incluindo espaços em branco.
+2. Problema: O botão de sorteio não sorteia nada
+Solução: Certifique-se de que a lista de amigos não esteja vazia antes de clicar no botão "Sortear Amigo". O código só sorteia se a lista contiver pelo menos um amigo.
+3. Problema: O navegador não abre o arquivo HTML
+Solução: Verifique se você está abrindo o arquivo HTML corretamente. Você pode arrastar o arquivo para a janela do navegador ou clicar com o botão direito sobre o arquivo e selecionar "Abrir com" e escolher o navegador.
 
 
 
