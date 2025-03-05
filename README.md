@@ -60,13 +60,11 @@
   ## Como Executar:
 
   **1. Abra o arquivo index.html em um navegador.**
-  
-**2. Adicione nomes de amigos no campo de texto e clique no botão "Adicionar Amigo"**.
-     <br>
      <p>
     <img src="https://github.com/user-attachments/assets/48d65ecc-b92f-4259-97aa-6159a49406b6" alt="imagem1">
     </p>
-    <br>
+  
+**2. Adicione nomes de amigos no campo de texto e clique no botão "Adicionar Amigo"**.
     <p>
          <img src="https://github.com/user-attachments/assets/fc3ced65-eddf-43c8-95bd-96f5e680000a" alt="imagem2">
     </p>
