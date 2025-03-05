@@ -15,7 +15,7 @@
   um dos nomes
 </p>
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas :
 <p>
   <img
    align="left"
@@ -51,13 +51,13 @@
  </p>
  <br>
  
- ## Instalação.
+ ## Instalação :
  <p>
   Este é um projeto simples que não requer dependências externas. Você pode executar o projeto localmente apenas com o navegador.
  </p>
  <br>
  
-  ## Como Executar:
+  ## Como Executar :
 
   **1. Abra o arquivo index.html em um navegador.**
      <p>
@@ -84,7 +84,7 @@
 <br>
 
 
- ## Possivéis Problemas:
+ ## Possivéis Problemas :
  <p>
  1. Problema: O alerta de campo vazio não está funcionando
 Solução: Verifique se você está utilizando o método correto para verificar o valor do campo. Use amigo.trim() !== '' para garantir que o campo não esteja vazio, incluindo espaços em branco.
@@ -95,7 +95,7 @@ Solução: Verifique se você está abrindo o arquivo HTML corretamente. Você p
 <p/>
 <br>
 
-## Conclusão:
+## Conclusão :
 <p>
  Este projeto simples permite que você adicione amigos à lista e sorteie um amigo aleatoriamente. Você pode estilizá-lo com CSS, e adicionar novas funcionalidades, como editar ou excluir amigos da lista.
 
