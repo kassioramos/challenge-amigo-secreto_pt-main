@@ -58,12 +58,33 @@
  <br>
  
   ## Como Executar:
- <p>
-  1. Abra o arquivo index.html em um navegador.
-2. Adicione nomes de amigos no campo de texto e clique no botão "Adicionar Amigo".
-3.Clique no botão "Sortear Amigo" para sortear um amigo aleatoriamente.
-4. Se a lista estiver vazia, o botão de sorteio exibirá um alerta dizendo "Não há amigos, por favor, adicione pelo menos um amigo".   
- </p>
+
+  **1. Abra o arquivo index.html em um navegador.**
+  
+**2. Adicione nomes de amigos no campo de texto e clique no botão "Adicionar Amigo"**.
+     <br>
+     <p>
+    <img src="https://github.com/user-attachments/assets/48d65ecc-b92f-4259-97aa-6159a49406b6" alt="imagem1">
+    </p>
+    <br>
+    <p>
+         <img src="https://github.com/user-attachments/assets/fc3ced65-eddf-43c8-95bd-96f5e680000a" alt="imagem2">
+    </p>
+    <br>
+    
+
+**3.Clique no botão "Sortear Amigo" para sortear um amigo aleatoriamente.**
+<img src="https://github.com/user-attachments/assets/2758d6b2-6dd9-4c35-8e86-6756e2e103d7" alt="imagem3">
+ 
+
+
+**4. Se a lista estiver vazia, o botão de sorteio exibirá um alerta dizendo "Não há amigos, por favor, adicione pelo menos um amigo".**
+ <br>
+<p>
+    <img src="https://github.com/user-attachments/assets/a17b7ce1-d49f-4789-b603-d57259bc68da" alt="imagem4">
+</p>
+<br>
+
 
  ## Possivéis Problemas:
  <p>
